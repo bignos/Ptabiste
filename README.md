@@ -12,10 +12,10 @@
 
 ### Generate virtualenv
 
-Go to Ptabiste directory:
+Go to Ptabiste directory:  
 `$ cd Ptabiste`
 
-Generate the environment _venv_:
+Generate the environment _venv_:  
 `$ python3 -m virtualenv venv`
 
 ### Activate the virtual environment
