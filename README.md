@@ -28,6 +28,5 @@ Generate the environment _venv_:
 
 Congratulation you have installed Ptabiste
 
-> Don't forget to deactivate your virtual environment when you have finish to use Ptabiste
+> Don't forget to deactivate your virtual environment when you have finish to use Ptabiste with:  
 `$ deactivate`
-
