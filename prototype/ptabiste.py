@@ -157,7 +157,7 @@ class Ptabiste:
             }
 
     OPTION = {
-            'Music' : False
+            'Music' : True
             }
 
     def __init__(self):
